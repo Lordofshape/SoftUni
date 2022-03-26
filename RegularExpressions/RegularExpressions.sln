@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegularExpressions", "RegularExpressions\RegularExpressions.csproj", "{38C1479F-3AB7-4709-BB1A-6D1CC420BDA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Race", "Race\Race.csproj", "{19774F64-23DA-4ECC-8F4C-2C79FFBF54EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nether_Realms", "Nether_Realms\Nether_Realms.csproj", "{AC94B108-35D7-4EA3-A462-1241F5052F88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractEmails", "ExtractEmails\ExtractEmails.csproj", "{AE36D3AE-074B-4841-97DF-01040E804DD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38C1479F-3AB7-4709-BB1A-6D1CC420BDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C1479F-3AB7-4709-BB1A-6D1CC420BDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C1479F-3AB7-4709-BB1A-6D1CC420BDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C1479F-3AB7-4709-BB1A-6D1CC420BDA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19774F64-23DA-4ECC-8F4C-2C79FFBF54EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19774F64-23DA-4ECC-8F4C-2C79FFBF54EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19774F64-23DA-4ECC-8F4C-2C79FFBF54EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19774F64-23DA-4ECC-8F4C-2C79FFBF54EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC94B108-35D7-4EA3-A462-1241F5052F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC94B108-35D7-4EA3-A462-1241F5052F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC94B108-35D7-4EA3-A462-1241F5052F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC94B108-35D7-4EA3-A462-1241F5052F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE36D3AE-074B-4841-97DF-01040E804DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE36D3AE-074B-4841-97DF-01040E804DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE36D3AE-074B-4841-97DF-01040E804DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE36D3AE-074B-4841-97DF-01040E804DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2318BDF8-5126-4B1B-A209-19D74FD88163}
+	EndGlobalSection
+EndGlobal
