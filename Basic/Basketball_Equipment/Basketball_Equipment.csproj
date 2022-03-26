@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hello SoftUni\Hello SoftUni.csproj" />
+    <ProjectReference Include="..\Nums 1 to 10\Nums 1 to 10.csproj" />
+  </ItemGroup>
+
+</Project>
