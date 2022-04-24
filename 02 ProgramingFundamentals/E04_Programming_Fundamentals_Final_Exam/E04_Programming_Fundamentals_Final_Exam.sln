@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_Password_Reset", "P01_Password_Reset\P01_Password_Reset.csproj", "{B9EC3E01-0742-4F74-B39D-400EF5FB5660}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_Fancy_Barcodes", "P02_Fancy_Barcodes\P02_Fancy_Barcodes.csproj", "{0E8A9797-8CA4-4AAD-AA3F-AC6AE703B437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03Heroes_of_Code_and_Logic_VII", "P03Heroes_of_Code_and_Logic_VII\P03Heroes_of_Code_and_Logic_VII.csproj", "{20B5CD14-B528-4BAE-9AA6-F6608E83F80E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B9EC3E01-0742-4F74-B39D-400EF5FB5660}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9EC3E01-0742-4F74-B39D-400EF5FB5660}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9EC3E01-0742-4F74-B39D-400EF5FB5660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E8A9797-8CA4-4AAD-AA3F-AC6AE703B437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8A9797-8CA4-4AAD-AA3F-AC6AE703B437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8A9797-8CA4-4AAD-AA3F-AC6AE703B437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8A9797-8CA4-4AAD-AA3F-AC6AE703B437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B5CD14-B528-4BAE-9AA6-F6608E83F80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B5CD14-B528-4BAE-9AA6-F6608E83F80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B5CD14-B528-4BAE-9AA6-F6608E83F80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B5CD14-B528-4BAE-9AA6-F6608E83F80E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
